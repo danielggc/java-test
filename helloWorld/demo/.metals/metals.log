@@ -1,0 +1,398 @@
+2024.01.25 08:19:42 INFO  Started: Metals version 1.2.0 in folders '/home/dgc7/proyectos/java/helloWorld/demo' for client Code - OSS 1.82.2.[0m
+2024.01.25 08:19:43 WARN  Build server is not auto-connectable.[0m
+2024.01.25 08:19:43 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/MesagesController.java[0m
+2024.01.25 08:19:50 INFO  no build target found for /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/MesagesController.java. Using presentation compiler with project's scala-library version: 3.3.1[0m
+Jan 25, 2024 8:19:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-19-52-390.md
+Jan 25, 2024 8:19:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-19-53-077.md
+2024.01.25 08:20:14 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/DemoApplication.java[0m
+Jan 25, 2024 8:20:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-20-15-026.md
+Jan 25, 2024 8:20:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-20-15-721.md
+Jan 25, 2024 8:29:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-29-02-209.md
+Jan 25, 2024 8:29:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-29-06-502.md
+Jan 25, 2024 8:34:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-34-45-680.md
+Jan 25, 2024 8:34:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-34-48-627.md
+Jan 25, 2024 8:38:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-38-43-307.md
+Jan 25, 2024 8:40:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-40-28-138.md
+Jan 25, 2024 8:40:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-40-29-075.md
+Jan 25, 2024 8:40:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-40-32-496.md
+Jan 25, 2024 8:40:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-40-34-425.md
+Jan 25, 2024 8:40:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-40-35-256.md
+Jan 25, 2024 8:40:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-40-35-931.md
+Jan 25, 2024 8:40:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-40-36-488.md
+2024.01.25 08:40:42 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/MesagesController.java[0m
+Jan 25, 2024 8:40:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-40-42-565.md
+Jan 25, 2024 8:42:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-42-02-069.md
+2024.01.25 08:42:03 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/MesagesController.java[0m
+Jan 25, 2024 8:42:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-42-03-197.md
+Jan 25, 2024 8:42:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-42-15-367.md
+2024.01.25 08:42:15 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/MesagesController.java[0m
+Jan 25, 2024 8:42:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-42-16-138.md
+Jan 25, 2024 8:49:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-29-911.md
+Jan 25, 2024 8:49:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-30-490.md
+Jan 25, 2024 8:49:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-31-816.md
+Jan 25, 2024 8:49:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-31-958.md
+Jan 25, 2024 8:49:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-32-397.md
+Jan 25, 2024 8:49:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-33-102.md
+Jan 25, 2024 8:49:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-33-916.md
+Jan 25, 2024 8:49:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-34-472.md
+Jan 25, 2024 8:49:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-38-630.md
+Jan 25, 2024 8:49:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-39-075.md
+Jan 25, 2024 8:49:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-43-994.md
+Jan 25, 2024 8:49:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-44-222.md
+Jan 25, 2024 8:49:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-44-619.md
+Jan 25, 2024 8:49:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-45-185.md
+Jan 25, 2024 8:49:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-49-589.md
+2024.01.25 08:49:51 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/MesagesController.java[0m
+Jan 25, 2024 8:49:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-51-911.md
+Jan 25, 2024 8:49:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-53-766.md
+Jan 25, 2024 8:49:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-57-559.md
+Jan 25, 2024 8:49:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-58-458.md
+Jan 25, 2024 8:49:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-58-840.md
+Jan 25, 2024 8:49:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-59-149.md
+Jan 25, 2024 8:49:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-59-356.md
+Jan 25, 2024 8:49:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-49-59-545.md
+Jan 25, 2024 8:50:00 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-00-400.md
+Jan 25, 2024 8:50:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-01-099.md
+Jan 25, 2024 8:50:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-01-465.md
+Jan 25, 2024 8:50:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-04-531.md
+Jan 25, 2024 8:50:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-05-128.md
+Jan 25, 2024 8:50:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-05-551.md
+Jan 25, 2024 8:50:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-06-178.md
+Jan 25, 2024 8:50:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-07-116.md
+Jan 25, 2024 8:50:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-07-772.md
+Jan 25, 2024 8:50:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-07-860.md
+Jan 25, 2024 8:50:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-08-568.md
+Jan 25, 2024 8:50:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-10-955.md
+Jan 25, 2024 8:50:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-12-068.md
+Jan 25, 2024 8:50:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-12-174.md
+Jan 25, 2024 8:50:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-12-763.md
+Jan 25, 2024 8:50:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-14-255.md
+Jan 25, 2024 8:50:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-14-379.md
+Jan 25, 2024 8:50:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-14-635.md
+Jan 25, 2024 8:50:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-15-519.md
+Jan 25, 2024 8:50:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-16-132.md
+Jan 25, 2024 8:50:16 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-16-620.md
+Jan 25, 2024 8:50:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-17-197.md
+Jan 25, 2024 8:50:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-17-571.md
+Jan 25, 2024 8:50:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-23-527.md
+Jan 25, 2024 8:50:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-24-568.md
+Jan 25, 2024 8:50:24 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-24-696.md
+Jan 25, 2024 8:50:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-27-286.md
+Jan 25, 2024 8:50:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-27-810.md
+Jan 25, 2024 8:50:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-28-529.md
+Jan 25, 2024 8:50:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-29-801.md
+Jan 25, 2024 8:50:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-29-848.md
+Jan 25, 2024 8:50:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-30-330.md
+Jan 25, 2024 8:50:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-30-740.md
+Jan 25, 2024 8:50:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-31-974.md
+Jan 25, 2024 8:50:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-32-496.md
+Jan 25, 2024 8:50:32 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-32-938.md
+Jan 25, 2024 8:50:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-33-449.md
+Jan 25, 2024 8:50:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-34-012.md
+Jan 25, 2024 8:50:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-43-468.md
+Jan 25, 2024 8:50:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-45-119.md
+Jan 25, 2024 8:50:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-45-516.md
+Jan 25, 2024 8:50:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-46-224.md
+Jan 25, 2024 8:50:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-48-447.md
+Jan 25, 2024 8:50:48 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-48-872.md
+Jan 25, 2024 8:50:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-49-574.md
+Jan 25, 2024 8:50:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-51-320.md
+Jan 25, 2024 8:50:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-52-320.md
+Jan 25, 2024 8:50:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-53-682.md
+Jan 25, 2024 8:50:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-54-673.md
+Jan 25, 2024 8:50:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-55-371.md
+Jan 25, 2024 8:50:55 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-55-840.md
+Jan 25, 2024 8:50:56 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-56-476.md
+Jan 25, 2024 8:50:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-57-226.md
+Jan 25, 2024 8:50:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-59-064.md
+Jan 25, 2024 8:50:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-50-59-676.md
+Jan 25, 2024 8:51:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-01-062.md
+Jan 25, 2024 8:51:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-01-240.md
+Jan 25, 2024 8:51:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-02-476.md
+Jan 25, 2024 8:51:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-02-552.md
+Jan 25, 2024 8:51:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-02-711.md
+Jan 25, 2024 8:51:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-04-821.md
+Jan 25, 2024 8:51:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-05-665.md
+Jan 25, 2024 8:51:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-06-400.md
+Jan 25, 2024 8:51:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-07-614.md
+Jan 25, 2024 8:51:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-07-742.md
+Jan 25, 2024 8:51:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-07-865.md
+Jan 25, 2024 8:51:09 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-09-483.md
+Jan 25, 2024 8:51:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-10-502.md
+Jan 25, 2024 8:51:11 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-11-349.md
+Jan 25, 2024 8:51:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-13-497.md
+Jan 25, 2024 8:51:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-14-156.md
+Jan 25, 2024 8:51:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-15-021.md
+Jan 25, 2024 8:51:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-15-733.md
+Jan 25, 2024 8:51:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-17-998.md
+Jan 25, 2024 8:51:18 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-18-744.md
+Jan 25, 2024 8:51:20 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-20-651.md
+Jan 25, 2024 8:51:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-23-403.md
+Jan 25, 2024 8:51:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-23-976.md
+Jan 25, 2024 8:51:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-25-263.md
+Jan 25, 2024 8:51:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-25-905.md
+Jan 25, 2024 8:51:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-26-352.md
+Jan 25, 2024 8:51:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-27-055.md
+Jan 25, 2024 8:51:27 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-27-553.md
+Jan 25, 2024 8:51:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-28-069.md
+Jan 25, 2024 8:51:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-29-300.md
+Jan 25, 2024 8:51:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-30-871.md
+Jan 25, 2024 8:51:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-34-094.md
+Jan 25, 2024 8:51:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-34-730.md
+Jan 25, 2024 8:51:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-35-181.md
+Jan 25, 2024 8:51:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-35-431.md
+Jan 25, 2024 8:51:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-35-659.md
+Jan 25, 2024 8:51:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-35-889.md
+Jan 25, 2024 8:51:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-36-616.md
+Jan 25, 2024 8:51:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-37-242.md
+Jan 25, 2024 8:51:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-37-643.md
+Jan 25, 2024 8:51:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-39-747.md
+Jan 25, 2024 8:51:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-42-219.md
+Jan 25, 2024 8:51:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-43-281.md
+Jan 25, 2024 8:51:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-45-710.md
+Jan 25, 2024 8:51:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-46-571.md
+Jan 25, 2024 8:51:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-46-929.md
+Jan 25, 2024 8:51:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-47-525.md
+Jan 25, 2024 8:51:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-49-107.md
+Jan 25, 2024 8:51:49 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-49-665.md
+Jan 25, 2024 8:51:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-51-790.md
+Jan 25, 2024 8:51:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-52-224.md
+Jan 25, 2024 8:51:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-53-072.md
+Jan 25, 2024 8:51:57 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-57-458.md
+Jan 25, 2024 8:51:58 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-51-58-821.md
+Jan 25, 2024 8:52:03 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-52-03-440.md
+Jan 25, 2024 8:52:04 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-52-04-114.md
+Jan 25, 2024 8:52:09 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-52-09-029.md
+Jan 25, 2024 8:52:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-52-12-504.md
+Jan 25, 2024 8:52:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-52-13-286.md
+Jan 25, 2024 8:52:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-52-15-979.md
+Jan 25, 2024 8:52:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_08-52-17-560.md
+Jan 25, 2024 8:55:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.01.25 08:55:25 INFO  Shutting down server[0m
+2024.01.25 08:55:25 INFO  shutting down Metals[0m
+2024.01.25 08:55:25 INFO  Exiting server[0m
+2024.01.25 09:14:52 INFO  Started: Metals version 1.2.0 in folders '/home/dgc7/proyectos/java/helloWorld/demo' for client Code - OSS 1.82.2.[0m
+Jan 25, 2024 9:14:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.01.25 09:14:54 WARN  Build server is not auto-connectable.[0m
+2024.01.25 09:14:54 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/HelloWorldApi.java[0m
+2024.01.25 09:14:54 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/MesagesController.java[0m
+2024.01.25 09:14:56 INFO  time: code lens generation in 2.52s[0m
+2024.01.25 09:15:02 INFO  no build target found for /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/HelloWorldApi.java. Using presentation compiler with project's scala-library version: 3.3.1[0m
+Jan 25, 2024 9:15:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-15-06-560.md
+Jan 25, 2024 9:15:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-15-07-344.md
+Jan 25, 2024 9:15:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-15-08-528.md
+Jan 25, 2024 9:20:21 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-21-101.md
+Jan 25, 2024 9:20:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-23-101.md
+Jan 25, 2024 9:20:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-23-866.md
+Jan 25, 2024 9:20:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-25-200.md
+Jan 25, 2024 9:20:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-27-999.md
+Jan 25, 2024 9:20:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-29-205.md
+Jan 25, 2024 9:20:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-30-121.md
+Jan 25, 2024 9:20:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-30-442.md
+Jan 25, 2024 9:20:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-33-186.md
+Jan 25, 2024 9:20:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-33-720.md
+Jan 25, 2024 9:20:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-34-164.md
+Jan 25, 2024 9:20:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-34-515.md
+Jan 25, 2024 9:20:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-35-168.md
+Jan 25, 2024 9:20:35 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-35-597.md
+Jan 25, 2024 9:20:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-36-096.md
+Jan 25, 2024 9:20:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-37-637.md
+Jan 25, 2024 9:20:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-38-317.md
+2024.01.25 09:20:38 WARN  no build target for: /home/dgc7/proyectos/java/helloWorld/demo/src/main/java/com/example/demo/controller/HelloWorldApi.java[0m
+Jan 25, 2024 9:20:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_09-20-38-844.md
+Jan 25, 2024 10:23:26 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_10-23-26-111.md
+Jan 25, 2024 10:23:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_10-23-29-643.md
+Jan 25, 2024 10:23:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_10-23-31-365.md
+Jan 25, 2024 10:23:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_10-23-31-893.md
+Jan 25, 2024 10:24:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/java/helloWorld/demo/.metals/.reports/metals-full/2024-01-25/r_compiler-error_10-24-28-943.md
+2024.01.25 10:25:06 INFO  Shutting down server[0m
+2024.01.25 10:25:06 INFO  shutting down Metals[0m
+2024.01.25 10:25:06 INFO  Exiting server[0m
